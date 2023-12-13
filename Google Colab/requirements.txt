@@ -1,0 +1,4 @@
+ultralytics==8.0.23
+Python 3.x
+PyTorch 
+OpenCV
